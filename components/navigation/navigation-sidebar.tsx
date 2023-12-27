@@ -57,7 +57,7 @@ export const NavigationSidebar = async () => {
     </Link>
     </div>
     <div className="relative inline-flex items-center justify-center h-[48px] w-[48px] overflow-hidden bg-gray-100 rounded-full dark:bg-gray-600">
-     <Link href="https://progement.vercel.app/">
+     <Link href="https://lms.grechkapp.online/">
       
         <Image
           src="/home.svg" // Replace with your image path
