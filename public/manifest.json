@@ -4,6 +4,7 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
+    "form_factor": "wide",
     "name": "ATERETA APP",
     "short_name": "ATERETA",
     "icons": [
